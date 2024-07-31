@@ -1,0 +1,7 @@
+required tool box: Statistics and Machine Learning Toolbox 
+
+
+Stephen23 (2024). Maximally Distinct Color Generator (https://www.mathworks.com/matlabcentral/fileexchange/70215-maximally-distinct-color-generator), MATLAB Central File Exchange. Retrieved July 29, 2024.
+
+
+
