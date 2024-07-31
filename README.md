@@ -2,6 +2,7 @@
 This is the repository for the study: "Gait pattern stratification in persons with incomplete spinal cord injury: A data-driven approach".
 
 The codes consists of two parts: 
+
 PART 1: Gait stratification with DTW and HAC
 This part is run in Matlab (Tested version: 2021b). Please go to folder: Clustering methods and run file main.m to reproduce the results in the paper. You need to install Statistics and Machine Learning Toolbox to run the code. 
 Moreover, the clusters' color were automatically defined with Maximally Distinct Color Generator: 
